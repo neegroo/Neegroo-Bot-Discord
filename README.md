@@ -11,4 +11,4 @@ Discord.js v13 romperá este bot, así que no lo use con él. Hemos comenzado a 
 - [discord.js@12.5.3](https://www.npmjs.com/package/discord.js/v/12.5.3)
 - [Lavalink Server](https://darrennathanael.com/post/how-to-lavalink/?utm_source=github-sudhanplayz&utm_medium=readme&utm_campaign=sudhanplayz&utm_content=lavalink-prerequisites)
 
-> NOTE: Lavalink is needed for music functionality. You need to have a working Lavalink server to make the bot work.
+> NOTA: Lavalink es necesario para la funcionalidad de la música. Debe tener un servidor Lavalink en funcionamiento para que el bot funcione.
